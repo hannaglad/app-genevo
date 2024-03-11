@@ -99,7 +99,7 @@ ls | grep ".txt"
 * `tail` : afficher les 10 dernières lignes d'un fichier
 * `cat` : afficher le contenu du fichier
 
-<img src="/headtailcat.jpg>" width="450" height="200" />
+<img src="./headtailcat.jpg" width="350" height="200" />
 
 ## Commandes de base 
 
